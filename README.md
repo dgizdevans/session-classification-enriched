@@ -1,5 +1,4 @@
-# session-classification-enriched
-## Enriched Baselines for Prefix-Level Session Classification: Limits and Diagnostics
+# Enriched Baselines for Prefix-Level Session Classification: Limits and Diagnostics
 
 This repository contains the code and documentation for **Experiment 2** of a research project on prefix‑based session type prediction.  
 Building on the baseline established in [session-classification-baseline](https://github.com/dgizdevans/session-classification-baseline), this experiment investigates whether adding **inter‑event time intervals** and **global session context** (device, geo, traffic source) improves early classification of e‑commerce sessions.

@@ -1,0 +1,24 @@
+# Core data science libraries
+numpy>=1.23.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+tqdm>=4.65.0
+
+# Machine learning models
+lightgbm>=4.0.0
+torch>=2.0.0
+
+# Bayesian optimization
+optuna>=3.0.0
+
+# SHAP for model interpretation
+shap>=0.41.0
+
+# Google Cloud SDK (for BigQuery and Cloud Storage)
+google-cloud-bigquery>=3.0.0
+google-cloud-storage>=2.0.0
+
+# Jupyter environment (optional, for running the notebook locally)
+jupyter>=1.0.0
+ipykernel>=6.0.0
